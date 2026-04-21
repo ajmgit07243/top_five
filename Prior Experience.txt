@@ -1,0 +1,3 @@
+I personally don't have much experience working with CI/CD workflows before 
+as most projects I've done have been school assignments that didn't require an extensive amount of work using GitHub
+and similar systems.
